@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MysticalAce
-- 👀 I’m interested in Software engineering, Robotics, Machine learning.
-- 🌱 I’m currently learning C# .Core Net and ASP web development.
+- 👀 I’m interested in Software engineering, Robotics, Machine learning
+- 🌱 I’m currently learning C# Core .Net
 
 - Collabs: (Nothing... yet.)
 <!---
